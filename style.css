@@ -811,3 +811,7 @@ body {
   .media1920{display:flex}
   body{overflow: hidden;}
 }
+@media screen and (min-width: 1921px) {
+  .media1920{display:flex}
+  body{overflow: hidden;}
+}
